@@ -1,5 +1,8 @@
 ### Hello World! Eu sou o Nathan Garcia 😃
 
+Meu contato no mundo da programação começou ainda jovem, com apenas 14 anos de idade. Desde então vivi explorando este mundo de tecnologia. No requisto de estudos, atualmente estou focado em React e Node.
+
+## Skill Set :muscle:
 <div align="center">
   <a href="https://github.com/nathangds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathangds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
