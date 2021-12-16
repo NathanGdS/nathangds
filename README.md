@@ -7,7 +7,7 @@
   </h5>
  
 <p align="center">
-Tenho 20 anos de idade, mas meu contato no mundo da programação começou ainda cedo, com apenas 14 anos de idade. Desde então vivi explorando este mundo de tecnologia. No requisto de estudos, atualmente estou focado em React e Node.
+Tenho 20 anos de idade, mas meu contato no mundo da programação começou ainda cedo, com apenas 14 anos de idade. Desde então vivi explorando este mundo de tecnologia.
 </p>
 
 <h2 align="center">
