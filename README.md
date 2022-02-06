@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello World! Eu sou o Nathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+   <h1>Hello World! I'm Nathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 </div>
 
  <h5 align="center">
@@ -7,7 +7,7 @@
   </h5>
  
 <p align="center">
-Tenho 20 anos de idade, mas meu contato no mundo da programação começou ainda cedo, com apenas 14 anos de idade. Desde então vivi explorando este mundo de tecnologia.
+Blockchain enthusiast and passionate about technology.
 </p>
 
 <h2 align="center">
@@ -33,6 +33,6 @@ while (me == alive): study++ ♾️
   
 
   
-## Eai? Bora fazer aquela conexão? :handshake:
+## Hey you! Let's make a connection? :handshake:
 
 <a href="https://www.linkedin.com/in/nathan-garcia-b317001a9/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
