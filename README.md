@@ -7,7 +7,7 @@
   </h5>
  
 <p align="center">
-Blockchain enthusiast and passionate about technology.
+Web 3.0 enthusiast and passionate about technology.
 </p>
 
 <h2 align="center">
