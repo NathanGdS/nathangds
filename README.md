@@ -11,7 +11,7 @@ Web 3.0 enthusiast and passionate about technology.
 </p>
 
 <h2 align="center">
-while (me == alive): study++ ♾️
+while (me === alive): study++ ♾️
 </h2>
 
 <div align="center">
