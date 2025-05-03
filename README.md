@@ -7,7 +7,7 @@
   </h5>
  
 <p align="center">
-Web 3.0 enthusiast and passionate about technology.
+Passionate about technology.
 </p>
 
 <h2 align="center">
