@@ -26,7 +26,7 @@ Backend engineer who likes building things from scratch — from microservices a
 - 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
 - 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client
 - 📬 **[NestJS Inbox](https://github.com/NathanGdS/nestjs-inbox)** — Inbox pattern implementation on a NestJS clustered app
-- 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go
+- 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go 🚧
 - 🔧 **[Potato Framework](https://github.com/NathanGdS/potato-framework)** — Simple HTTP framework (study project that got out of hand)
 - 🐳 **[Docker Monitor](https://github.com/NathanGdS/docker-monitor)** — CLI to monitor running Docker containers with CPU/memory stats
 - ✂️ **[URL Shortener](https://github.com/NathanGdS/url_shortener)** — URL shortener POC in Go
