@@ -29,11 +29,7 @@ Backend engineer who likes building things from scratch — from microservices a
 - 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go
 - 🔧 **[Potato Framework](https://github.com/NathanGdS/potato-framework)** — Simple HTTP framework (study project that got out of hand)
 - 🐳 **[Docker Monitor](https://github.com/NathanGdS/docker-monitor)** — CLI to monitor running Docker containers with CPU/memory stats
-- ⚡ **[Go Circuit Breaker](https://github.com/NathanGdS/go-circuit-breaker)** — Circuit Breaker pattern implementation with go-breaker
 - ✂️ **[URL Shortener](https://github.com/NathanGdS/url_shortener)** — URL shortener POC in Go
-- 🔗 **[HTMX POC](https://github.com/NathanGdS/htmx-poc)** — HTMX with Golang proof of concept
-- 🗞️ **[ignews](https://github.com/NathanGdS/ignews)** — Next.js blog with Stripe payments, Prismic CMS, and FaunaDB
-- 📖 **[BooksRental](https://github.com/NathanGdS/BooksRental)** — Book registration API
 
 ## What I'm Working On
 
