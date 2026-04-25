@@ -1,38 +1,48 @@
 <div align="center">
-   <h1>Hello World! I'm Nathan!</h1> 
+
+# Hi, I'm Nathan 👋
+
+📍 **Brazil** | 🤖 **AI Enthusiast** | 💻 **Software Engineer @ Mercado Livre**
+
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+
 </div>
 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
-<p align="center">
-Passionate about technology.
-</p>
+> "I don't trust people who don't write SQL queries in uppercase."
 
-<h2 align="center">
-while (me === alive): study++ ♾️
-</h2>
+Backend engineer who likes building things from scratch — from microservices and message queues to HTTP frameworks and compilers (for fun). Currently shipping code at **Mercado Livre** and exploring how AI reshapes the way we build software.
 
-<div align="center">
-  <a href="https://github.com/nathangds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathangds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangds&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nathan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
-   <img align="center" alt="Nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nathan-Node" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-  <img align="center" alt="Nathan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nathan-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</div>
-  
+## Projects
 
-  
-## Hey you! Let's make a connection? :handshake:
+- 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
+- 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client
+- 📬 **[NestJS Inbox](https://github.com/NathanGdS/nestjs-inbox)** — Inbox pattern implementation on a NestJS clustered app
+- 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go
+- 🔧 **[Potato Framework](https://github.com/NathanGdS/potato-framework)** — Simple HTTP framework (study project that got out of hand)
+- 🐳 **[Docker Monitor](https://github.com/NathanGdS/docker-monitor)** — CLI to monitor running Docker containers with CPU/memory stats
+- ⚡ **[Go Circuit Breaker](https://github.com/NathanGdS/go-circuit-breaker)** — Circuit Breaker pattern implementation with go-breaker
+- ✂️ **[URL Shortener](https://github.com/NathanGdS/url_shortener)** — URL shortener POC in Go
+- 🔗 **[HTMX POC](https://github.com/NathanGdS/htmx-poc)** — HTMX with Golang proof of concept
+- 🗞️ **[ignews](https://github.com/NathanGdS/ignews)** — Next.js blog with Stripe payments, Prismic CMS, and FaunaDB
+- 📖 **[BooksRental](https://github.com/NathanGdS/BooksRental)** — Book registration API
 
-<a href="https://www.linkedin.com/in/🧑🏻%E2%80%8D💻-nathan-santos-b317001a9/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+## What I'm Working On
+
+- **Backend engineering** — Distributed systems, microservices, and message-driven architectures
+- **Go & TypeScript** — My daily drivers for building scalable services
+- **AI workflows** — Exploring how AI tools reshape development velocity
+- **Always learning** — `while (alive) { study++ }`
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Nathan_G._Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santos-b317001a9/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NathanGdS)
