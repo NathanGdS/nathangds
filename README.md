@@ -23,10 +23,10 @@ Backend engineer who likes building things from scratch — from microservices a
 
 ## Projects
 
-- 🤖 **[Hyked Claude Marketplace](https://github.com/NathanGdS/hyked-claude-marketplace)** — Zero-build, markdown-native plugin system for Claude Code with Spec-Driven Development (SDD)
-- 📊 **[Easy Index](https://github.com/NathanGdS/easy-index)** — Bitcoin market awareness in your system tray with Fear & Greed Index and Mayer Multiple alerts
-- 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
 - 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client
+- 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
+- 📊 **[Easy Index](https://github.com/NathanGdS/easy-index)** — Bitcoin market awareness in your system tray with Fear & Greed Index and Mayer Multiple alerts
+- 🤖 **[Hyked Claude Marketplace](https://github.com/NathanGdS/hyked-claude-marketplace)** — Zero-build, markdown-native plugin system for Claude Code with Spec-Driven Development (SDD)
 - 📬 **[NestJS Inbox](https://github.com/NathanGdS/nestjs-inbox)** — Inbox pattern implementation on a NestJS clustered app
 - 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go 🚧 *in construction*
 - 🔧 **[Potato Framework](https://github.com/NathanGdS/potato-framework)** — Simple HTTP framework (study project that got out of hand)
