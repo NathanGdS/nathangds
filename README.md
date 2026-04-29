@@ -25,7 +25,7 @@ Backend engineer who likes building things from scratch — from microservices a
 
 - 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client
 - 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
-- ₿ **[Easy Index](https://github.com/NathanGdS/easy-index)** — Bitcoin market awareness in your system tray with Fear & Greed Index and Mayer Multiple alerts
+- <img src="https://raw.githubusercontent.com/NathanGdS/easy-index/master/src/assets/bitcoin.png" width="16" alt="BTC"> **[Easy Index](https://github.com/NathanGdS/easy-index)** — Bitcoin market awareness in your system tray with Fear & Greed Index and Mayer Multiple alerts
 - 🤖 **[Hyked Claude Marketplace](https://github.com/NathanGdS/hyked-claude-marketplace)** — Plugin system for Claude Code with Spec-Driven Development
 - 📬 **[NestJS Inbox](https://github.com/NathanGdS/nestjs-inbox)** — Inbox pattern implementation on a NestJS clustered app
 - 🪽 **[Altair](https://github.com/NathanGdS/altair)** — Tiny queue webhook-like made in Go 🚧 *in construction*
