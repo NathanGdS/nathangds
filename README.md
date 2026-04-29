@@ -23,7 +23,7 @@ Backend engineer who likes building things from scratch — from microservices a
 
 ## Projects
 
-- 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client
+- 🥔 **[Mash Potato](https://github.com/NathanGdS/mash-potato)** — Lightweight, native desktop API client - no Login, no Subscriptions and Open Source 🙂
 - 🏦 **[Transaction Hub](https://github.com/NathanGdS/transaction-hub)** — Microservices-based transaction processing system with Go, Kafka, and PostgreSQL
 - <img src="https://raw.githubusercontent.com/NathanGdS/easy-index/master/src/assets/bitcoin.png" width="16" alt="BTC"> **[Easy Index](https://github.com/NathanGdS/easy-index)** — Bitcoin market awareness in your system tray with Fear & Greed Index and Mayer Multiple alerts
 - 🤖 **[Hyked Claude Marketplace](https://github.com/NathanGdS/hyked-claude-marketplace)** — Plugin system for Claude Code with Spec-Driven Development
